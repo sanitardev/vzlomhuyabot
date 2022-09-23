@@ -1,8 +1,8 @@
 from pyrogram import Client, filters
 import time as t
 
-api_id = 17339211
-api_hash = "dac862dae6529516db1ca39d997470db"
+api_id = null #api_id
+api_hash = null #api_hash
 app = Client("my_account", api_id, api_hash)
 
 
